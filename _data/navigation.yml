@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://xiaolng.io
   - title: "Posts"
     url: /year-archive/
   - title: "About"
     url: /about/
+  - title: "Widgets"
+    url: /widgets/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
