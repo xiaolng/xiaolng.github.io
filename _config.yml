@@ -282,8 +282,8 @@ defaults:
       type: posts
     values:
       layout: single
-      class: wide2
-      author_profile: false
+      classes: wide2
+      author_profile: true
       read_time: true
       comments: # true
       share: true
