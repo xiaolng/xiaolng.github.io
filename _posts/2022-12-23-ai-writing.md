@@ -1,7 +1,7 @@
 ---
 title: "The future of writing is AI-powered"
 date: 2022-12-23
-tags: AI, writing
+tags: AI writing
 classes: wide3
 author: chatGPT
 ---
